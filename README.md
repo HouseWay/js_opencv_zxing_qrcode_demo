@@ -2,6 +2,8 @@
 front decode qrcode with opencv and zxing
 用原生js实现的单html扫码,**opencv.js**和**zxing-js**用cdn调用
 
+在线演示：［演示地址］（https://houseway.github.io/js_opencv_zxing_qrcode_demo/）
+
 # 注意事项
 ## 1. 摄像头调用
 使用 `navigator.mediaDevices.getUserMedia` 需要在https中
